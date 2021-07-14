@@ -4,3 +4,5 @@
  
  ## Desenvolvido por:
 [![Badge](https://img.shields.io/badge/-João_Pedro-yellow?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/jotape00)](https://github.com/jotape00) [![Badge](https://img.shields.io/badge/-Anny-purple?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/annysena)](https://github.com/annysena)[![Badge](https://img.shields.io/badge/-Fernanda-purple?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/Fe-r-nanda)](https://github.com/Fe-r-nanda)[![Badge](https://img.shields.io/badge/-Gabriel_Almeida-purple?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/bielalmd)](https://github.com/bielalmd)[![Badge](https://img.shields.io/badge/-Gabriel_Reis-purple?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/gabriel8514)](https://github.com/gabriel8514)
+
+<span style="color:orange;">Word up</span>
