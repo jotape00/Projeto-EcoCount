@@ -1,3 +1,8 @@
+/* Projeto Java - Grupo 06 
+ * Autores: Anny Sena, Fernanda Correia, Gabriel Almeida, Gabriel Reis, João Pedro. 
+ * Data última atualização: 13/07/21
+ */
+
 package br.com.generation.projeto;
 
 public class AparelhosDomesticos {
