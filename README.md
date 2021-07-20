@@ -1,6 +1,6 @@
 # ⚡ Projeto Eco Count ⚡
 # Consumo de energia responsável
- 💡 <li> O projeto Eco Count realizado pela equipe 06 da turma 26 da Generation Brasil tem como objetivo mensurar a média dos gastos energéticos nas residências e demonstrar de forma simples a como lidar com a energia de forma mais responsável e consciente. </li>
+ 💡 O projeto Eco Count realizado pela equipe 06 da turma 26 da Generation Brasil tem como objetivo mensurar a média dos gastos energéticos nas residências e demonstrar de forma simples a como lidar com a energia de forma mais responsável e consciente. 
  <li> Para isso, o programa criado tem o intuito de fazer uma listagem de possíveis aparelhos domésticos que podem estar contido em todas as casas e, após toda a checagem de suas horas e minutos gastos, é apresentado o gasto energético e o câmbio esperado, baseado nos valores da região metropolitana de São Paulo. </li>
     
  ## Desenvolvido por:
